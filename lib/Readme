@@ -1,0 +1,7 @@
+Provider State management
+
+Step 1 : Add provider package.
+Step 2 : Create a counterProvider(Provider class).
+Step 3 : Wrap the app with MultiProvider to manage multiple providers.
+MultiProvider is used to manage multiple state providers within the app.
+
